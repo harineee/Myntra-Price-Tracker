@@ -1,4 +1,3 @@
-pip install beautifulsoup4 requests
 import requests
 from bs4 import BeautifulSoup
 import smtplib
